@@ -2,4 +2,4 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Php oop
 - 💞️ I’m not looking for cooperation
-- 📫 How to reach me ؟ ==> Email :> h.kamyar1381@gmail.com , PHone :> +989913656693
+- 📫 How to reach me ؟ ==> Email :> h.kamyar1381@gmail.com , Phone :> +989913656693
