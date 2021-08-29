@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HesamKamyar
-- 👀 I’m interested in ...
+- 👀 I’m interested in design and development
 - 🌱 I’m currently learning Php oop
 - 💞️ I’m not looking for cooperation
 - 📫 How to reach me ؟ ==> Email :> h.kamyar1381@gmail.com , Phone :> +989913656693
